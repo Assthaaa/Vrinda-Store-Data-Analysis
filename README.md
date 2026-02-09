@@ -4,7 +4,7 @@ The Vrinda Store wants to create an annual report for 2022.So that,the owner of 
 
 
 Ouestions:
--Comapre the sales and orders using simple chart.
+-Compare the sales and orders using simple chart.
 -Which month got the highest sales and orders?
 -Who purchased more- Men or Women?
 -What are different order status in 2022?
